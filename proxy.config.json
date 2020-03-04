@@ -1,4 +1,4 @@
-{
+added by manuallyadded by manually{
     "/api/*": {
         "target": "http://localhost:3000",
         "secure": false,
